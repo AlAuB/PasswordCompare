@@ -1,2 +1,2 @@
 # PasswordCompare
- program part 1 for worksheet2
+ program part 1 for Assignment2
