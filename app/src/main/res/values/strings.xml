@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordCompare</string>
+    <string name="compare">Compare</string>
+    <string name="result_will_be_here">Result will be here</string>
+    <string name="enter_first_password_here">Enter first password here:</string>
+    <string name="enter_second_password_here">Enter second password here:</string>
+</resources>
